@@ -1,2 +1,5 @@
+.idea
+.vscode
+.nvimlog
 .DS_Store
 .env
